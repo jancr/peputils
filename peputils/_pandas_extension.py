@@ -9,7 +9,7 @@ import warnings
 
 from tqdm import tqdm
 
-from .annotations import ProteinId, PeptideId, PeptideVariantId
+#  from .annotations import ProteinId, PeptideId, PeptideVariantId
 #  from tqdm import tqdm
 
 #  from modlamp.sequences import Helices
